@@ -1,0 +1,22 @@
+{
+  "name": "ajs-hw-3.2-usage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriyvyatkin/ajs-hw-3.2-usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriyvyatkin/ajs-hw-3.2-usage/issues"
+  },
+  "homepage": "https://github.com/yuriyvyatkin/ajs-hw-3.2-usage#readme",
+  "devDependencies": {
+    "@yuriyvyatkin/ajs-hw-3.1-libraries": "^1.0.0"
+  }
+}
